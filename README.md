@@ -1,6 +1,6 @@
-# jogodanave
+# Jogo de Nave
 
-Jogo de Nave
+
 
 Feito em HTML, Css e Javascript a partir de um Bootcamp da Dio.
 Construa Seu Primeiro Jogo de Naves.
